@@ -11,12 +11,12 @@ global.antitags = true
 //global.autoRecord = true //auto recording (true to on, false to off)
 
 global.Owner = ['918348225320'] //ur number 
-global.OwnerNumber = ['918348225320']
-global.ownertag = ['918348225320']
-global.BotName = "ZenitsuBot" //ur bot name 
-global.packname = "ZenitsuBot"
-global.author = "🦄Dream Guy Deepak" //ur sticker pack name 
-global.OwnerName = "🦄Dream Guy Deepak" //ur name
+global.OwnerNumber = ['2347082252014','2349150538944']
+global.ownertag = ['2347082252014']
+global.BotName = "dux-bot" //ur bot name 
+global.packname = "dux-bot"
+global.author = "DUX-BOT" //ur sticker pack name 
+global.OwnerName = "DUX-BOT" //ur name
 global.BotSourceCode = "https://youtube.com/@dreamguydeepak" //ur website link
 global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //ur group link 
 global.sessionName = "session"
@@ -30,8 +30,8 @@ global.location = "Darjeeling, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://i.ibb.co/vXnjzpr/cheemspic.jpg' }
-global.websitex = "https://youtube.com/@dreamguydeepak"
-global.lolhuman = "Deepak"
+global.websitex = "https://youtube.com/@duxbot6413"
+global.lolhuman = "Dux"
 
 
 global.BotLogo = fs.readFileSync("./Assets/cheemspic.jpg")
